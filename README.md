@@ -1,29 +1,75 @@
-<h1 align="center">Hi 👋, I'm Mahdi iltireh</h1>
-<h3 align="center">A passionate Frontend Developer, constantly learning and building modern, user-friendly web applications.</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mahdi%20iltireh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Learning%20Python%20%F0%9F%9A%80&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmahdi7&label=Profile%20views&color=0e75b6&style=flat" alt="devmahdi7" /> </p>
-
-- 🔭 I’m currently working on **Article With Supabase**
-
-- 🌱 I’m currently learning **React and Learning AI**
-
-- 👯 I’m looking to collaborate on **E-Commerce Project**
-
-- 💬 Ask me about **python and JavaScript etc...**
-
-- 📫 How to reach me **devmahdi95@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning ideas into code**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=DevMahdi7">
+    <img src="https://komarev.com/ghpvc/?username=DevMahdi7&label=Profile%20views&color=00FFFF&style=flat-square" alt="DevMahdi7's profile views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 📌 About Me
+- 🔭 I’m currently working on Article With Supabase
+- 🌱 I’m currently learning React and Learning AI
+- 👯 I’m looking to collaborate on E-Commerce Project
+- 💬 Ask me about python and JavaScript etc...
+- 📫 How to reach me devmahdi95@gmail.com
+- ⚡ Fun fact I enjoy turning ideas into code
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmahdi7&show_icons=true&locale=en&layout=compact" alt="devmahdi7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmahdi7&show_icons=true&locale=en" alt="devmahdi7" /></p>
+## 🧠 My Focus Areas
+- Frontend Development
+- Responsive Web Design
+- Python Programming
+- Problem Solving
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmahdi7&" alt="devmahdi7" /></p>
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/DevMahdi7">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevMahdi7&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="DevMahdi7's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=DevMahdi7&theme=radical&hide_border=true&cache_seconds=86400" alt="DevMahdi7's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=DevMahdi7&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mahdi iltireh's GitHub Trophies" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/DevMahdi7">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevMahdi7&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
